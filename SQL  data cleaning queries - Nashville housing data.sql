@@ -4,7 +4,6 @@ Cleaning data using SQL queries
 
 */
 
---DELETE FROM nashville_housing;
 
 SELECT PropAddress, PropCity FROM nashville_housing;
 
